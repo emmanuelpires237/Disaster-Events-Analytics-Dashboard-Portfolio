@@ -50,3 +50,17 @@ A structured end-to-end analytics workflow was applied:
 * Interactive slicers (Year, Month, Disaster Type)
 * Maps, bar charts, donut charts, and trend lines
 Clean, professional color theme for clarity
+
+ **4. Data Source**
+ 
+* Structured disaster events dataset
+  
+**Includes:**
+* Disaster type
+* Location
+* Economic loss estimates
+* Affected population counts
+* Aid provided
+* Infrastructure damage index
+(Dataset modeled to simulate real-world disaster analytics use cases.)
+
